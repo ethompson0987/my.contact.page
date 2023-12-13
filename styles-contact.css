@@ -81,35 +81,38 @@ html, body {
 
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-size: 2em;
+	font-size: 4em;
     margin: 0px auto 10px auto;
     color: black;
 }
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-size: 1.5em;
-    line-height: 1.4;
+	font-size: 3em;
+    line-height: 1;
     color: black;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
+h2, .h2{
+	margin-bottom: 30px;
+}
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-size: 1.2em;
-    line-height: 1.6;
+	font-size: .75em;
+    line-height: 2;
     color: black;
 }
 nav{
 	font-family:; 
-	font-size: 1.2m;
+	font-size: .2m;
 	width: 400px; 
 	margin: 0 auto;
-	border: dashed black;
+	border: solid black;
 	border-width: 3px 0;
 	text-align: center;
-	margin-top: 2em;
+	margin-top: .25em;
 }
 
 nav li{
